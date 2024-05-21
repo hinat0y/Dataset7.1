@@ -10,7 +10,7 @@
 	  <dependency>
 		  <groupId>junit</groupId>
 		  <artifactId>junit</artifactId>
-		  <version>4.13.2_update</version>
+		  <version>4.13_update</version>
 	  </dependency>
   </dependencies>
 </project>
